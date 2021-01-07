@@ -1,0 +1,24 @@
+/*общие*/
+@import url(../styles/normalize.css);
+@import url(../fonts/montserrat/stylesheet.css);
+
+/*page*/
+@import url(../blocks/page/page.css);
+@import url(../blocks/content/content.css);
+
+/*compare*/
+@import url(../blocks/compare/compare.css);
+@import url(../blocks/compare/__items/compare__items.css);
+
+/*filters*/
+@import url(../blocks/filters/filters.css);
+@import url(../blocks/filters/__subtitle/filters__subtitle.css);
+@import url(../blocks/filters/__explanation/filters__explanation.css);
+@import url(../blocks/filters/__title/filters__title.css);
+@import url(../blocks/filters/__menu/filters__menu.css);
+@import url(../blocks/filters/__radiobox/filters__radiobox.css);
+
+/*item*/
+@import url(../blocks/item/__card/item__card.css);
+@import url(../blocks/item/item.css);
+@import url(../blocks/item/__image/item__image.css);
